@@ -1,0 +1,1 @@
+part 'wilayahModel.dart';
